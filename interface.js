@@ -1,4 +1,6 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.duck = void 0;
 let mybottle = {
     size: 15,
     type: "Coke"
@@ -18,6 +20,7 @@ let duck = {
     canfly: true,
     canswim: true
 };
+exports.duck = duck;
 let dog = {
     canfly: false,
     canswim: true,

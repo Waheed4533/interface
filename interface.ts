@@ -47,6 +47,7 @@ if (dog.canfly && dog.canswim){
         console.log("i dont wana buy it");
         
     }
+    export {duck}
 
 
 
